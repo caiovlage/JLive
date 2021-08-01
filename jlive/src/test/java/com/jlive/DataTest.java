@@ -17,5 +17,4 @@ public class DataTest {
              .statusCode(200)
              .body(is("Hello RESTEasy"));
     }
-
 }
